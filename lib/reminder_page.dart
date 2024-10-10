@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
 }
 
 class HomePage extends StatelessWidget {
-  const HomePage({Key? key}) : super(key: key);
+  const HomePage({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -365,7 +365,7 @@ class SplexPage extends StatelessWidget {
               const SizedBox(height: 30),
               ElevatedButton.icon(
                 onPressed: () {
-                  // TODO: Implement Splex functionality
+                 
                   ScaffoldMessenger.of(context).showSnackBar(
                     const SnackBar(
                       content: Text('Splex functionality coming soon!'),
