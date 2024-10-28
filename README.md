@@ -20,6 +20,10 @@ When the reminder notification pops up, provide options to snooze or stop it.
 Reminder List:
 Display a list of all the reminders the user has set.
 Allow users to edit or delete existing reminders.
+
+
+
+
 <img src="https://github.com/user-attachments/assets/3519ab4a-8ea2-4680-9e1d-5103f4ecd73e" alt="Screenshot 1" width="300"/>
 <img src="https://github.com/user-attachments/assets/cd7d7278-af77-4bd4-aa62-12f2890fc67c" alt="Screenshot 2" width="300"/>
 <img src="https://github.com/user-attachments/assets/c6d47944-cf8d-427a-87ac-340e639c6f7f" alt="Screenshot 3" width="300"/>
